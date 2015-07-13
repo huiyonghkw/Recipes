@@ -1,7 +1,9 @@
 # Git 学习指南
 
 ---
-
+> Git 和其他版本控制系统的主要差别在于，Git 只关心文件数据的整体是否发生变化，而大多数其他系统则只关心文件内容的具体差异
+> 
+> ![enter image description here](http://image.beekka.com/blog/201207/bg2012070501.png)
 
 1. [Pro Git（中文版）](http://git.oschina.net/progit/index.html)
 2. [git版本使用流程git flow与git源码自动部署等工具研究](https://tower.im/projects/8b2b868fb79249c8a166884a423f743e/todos/4fb5faedd8194765b8405bca1e32603e/)
