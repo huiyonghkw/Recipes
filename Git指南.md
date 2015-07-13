@@ -10,3 +10,5 @@
 3. [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 4. [Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
 5. [Git 忽略一些文件不加入版本控制](http://blog.csdn.net/xmyzlz/article/details/8592302)
+6. [一个成功的 Git 分支模型](http://blog.jobbole.com/81196/#rd)
+7. [使用 GitHub / GitLab 的 Webhooks 进行网站自动化部署](http://www.lovelucy.info/auto-deploy-website-by-webhooks-of-github-and-gitlab.html)

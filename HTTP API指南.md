@@ -2,6 +2,12 @@
 
 ---
 
+```json
+网络应用程序，分为前端和后端两个部分。当前的发展趋势，就是前端设备层出不穷（手机、平板、桌面电脑、其他专用设备......）。
+因此，必须有一种统一的机制，方便不同的前端设备与后端进行通信。这导致API构架的流行，甚至出现"API First"的设计思想。RESTful API是目前比较成熟的一套互联网应用程序的API设计理论
+```
 
-
-1.[来自Segement一篇HTTP API设计指南翻译](http://segmentfault.com/bookmark/1230000002521721)
+1. [来自Segement一篇HTTP API设计指南翻译](http://segmentfault.com/bookmark/1230000002521721) 
+2. [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+3. [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+4. [Principles of good RESTful API Design](http://codeplanet.io/principles-good-restful-api-design/)
