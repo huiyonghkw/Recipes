@@ -3,9 +3,9 @@
 ---
 ```json
 Git 和其他版本控制系统的主要差别在于，Git 只关心文件数据的整体是否发生变化，而大多数其他系统则只关心文件内容的具体差异
- 
-![git](http://image.beekka.com/blog/201207/bg2012070501.png)
 ```
+![git](http://image.beekka.com/blog/201207/bg2012070501.png)
+
 1. [Pro Git（中文版）](http://git.oschina.net/progit/index.html)
 2. [git版本使用流程git flow与git源码自动部署等工具研究](https://tower.im/projects/8b2b868fb79249c8a166884a423f743e/todos/4fb5faedd8194765b8405bca1e32603e/)
 3. [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
@@ -13,3 +13,4 @@ Git 和其他版本控制系统的主要差别在于，Git 只关心文件数据
 5. [Git 忽略一些文件不加入版本控制](http://blog.csdn.net/xmyzlz/article/details/8592302)
 6. [一个成功的 Git 分支模型](http://blog.jobbole.com/81196/#rd)
 7. [使用 GitHub / GitLab 的 Webhooks 进行网站自动化部署](http://www.lovelucy.info/auto-deploy-website-by-webhooks-of-github-and-gitlab.html)
+8. [廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
