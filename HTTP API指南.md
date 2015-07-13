@@ -9,5 +9,8 @@
 
 1. [来自Segement一篇HTTP API设计指南翻译](http://segmentfault.com/bookmark/1230000002521721) 
 2. [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
-3. [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+3. [理解RESTful架构-阮一峰](http://www.ruanyifeng.com/blog/2011/09/restful.html)
 4. [Principles of good RESTful API Design](http://codeplanet.io/principles-good-restful-api-design/)
+5. [理解RESTFul架构](http://mccxj.github.io/blog/20130530_introduce-to-rest.html)
+6. [HTTP API 设计指南(http-api-design-ZH_CN)](https://github.com/ZhangBohan/http-api-design-ZH_CN)
+7. [RESTful Best Practices](https://www.zybuluo.com/yanbo-ai/note/17890)
