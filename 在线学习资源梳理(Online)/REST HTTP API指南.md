@@ -18,3 +18,8 @@
 ##开发调试工具
 
 1. [REST / HTTP API Tools for Development and Testing](http://fcfeibel.com/blog/2013/05/07/rest-http-api-tools-for-development-and-testing/)
+
+
+##OAuth 2.0
+
+1. [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
