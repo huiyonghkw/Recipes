@@ -80,7 +80,7 @@ Google了很多资源，大多看不懂也不太明白，于是发了个[Segment
 
 然后又继续搜索Percona工具的相关问题，整理了一些[有用的在Github中](https://github.com/Brave-Cheng/Materials/blob/master/%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A2%B3%E7%90%86%28Online%29/Mysql%E5%A4%87%E4%BB%BD.md)。
 
-上面的问题还是一直缠绕着我，之前我也做过类似的操作，也遇到了这个问题。云里雾里的时候，我仔细对比了上面的一些资料，发现backup-my.conf有些端倪，有的文档中用的是mysql安装目录中的my.conf文件，![Alt text](./1439548648031.png)
+上面的问题还是一直缠绕着我，之前我也做过类似的操作，也遇到了这个问题。云里雾里的时候，我仔细对比了上面的一些资料，发现backup-my.conf有些端倪，有的文档中用的是mysql安装目录中的my.conf文件，![Alt text](https://app.yinxiang.com/shard/s5/nl/5189159/75fab3c9-de81-4012-bc3c-27ba2c792653//res/36469f6e-997b-4228-81e9-6f010b318aa3/1439548648031.png?resizeSmall&width=832)
 
 对比这段内容后，我好像明白了点什么。其实原理就是图片的那句“2.2备份恢复”
 
