@@ -1,10 +1,7 @@
-阿里云RDS 数据库恢复工具Percona XtraBackup 实战心得
+阿里云RDS 数据库恢复工具Percona XtraBackup 实战心得(都是心酸血泪啊)
 ===
 
-[到这里查看完整信息](https://app.yinxiang.com/shard/s5/nl/5189159/75fab3c9-de81-4012-bc3c-27ba2c792653/)
-
 @(车护宝)
-
 
 > 随着业务变化与时间的推移，我们租用在阿里云的RDS数据也不断增长。阿里云提供了非常稳定而高效的数据备份机制（备份一次仅仅耗时1s）。数据却是备份了，但是恢复却耗费了精力，今天专门针对阿里云官方提供的帮助文档 - [DS备份文件恢复到自建数据库](http://help.aliyun.com/knowledge_detail/5973700.html?spm=5176.788314901.3.1.cJEBu8)进行实际操作与研究，虽然结果是美好的，但是这中间的过程却坡坡坎坎、“委婉而曲折”。下面总结下自己实际的操作过程与心得，以为遇到类似问题的同伴提供一些有效的帮助。
 
@@ -39,7 +36,7 @@ sh rds_backup_extract -f /home/mysql/backup/hins575175_xtra_20150429091224.tar.g
 实际操作时，可能环境不同，操作的命令和方式不同。我实际操作的命令是
 
 ```bash
-rds_backup_extract.sh -f /alidata/www/databases_backups/hins651261_xtra_20150814021723.tar.gz -C /alidata/www/databases_backups/20150814
+sh rds_backup_extract.sh -f /alidata/www/databases_backups/hins651261_xtra_20150814021723.tar.gz -C /alidata/www/databases_backups/20150814
 ```
 
 ###4、还原备份文件
@@ -80,7 +77,7 @@ Google了很多资源，大多看不懂也不太明白，于是发了个[Segment
 
 然后又继续搜索Percona工具的相关问题，整理了一些[有用的在Github中](https://github.com/Brave-Cheng/Materials/blob/master/%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A2%B3%E7%90%86%28Online%29/Mysql%E5%A4%87%E4%BB%BD.md)。
 
-上面的问题还是一直缠绕着我，之前我也做过类似的操作，也遇到了这个问题。云里雾里的时候，我仔细对比了上面的一些资料，发现backup-my.conf有些端倪，有的文档中用的是mysql安装目录中的my.conf文件，![Alt text](https://app.yinxiang.com/shard/s5/nl/5189159/75fab3c9-de81-4012-bc3c-27ba2c792653//res/36469f6e-997b-4228-81e9-6f010b318aa3/1439548648031.png?resizeSmall&width=832)
+上面的问题还是一直缠绕着我，之前我也做过类似的操作，也遇到了这个问题。云里雾里的时候，我仔细对比了上面的一些资料，发现backup-my.conf有些端倪，有的文档中用的是mysql安装目录中的my.conf文件，![Alt text](./1439548648031.png)
 
 对比这段内容后，我好像明白了点什么。其实原理就是图片的那句“2.2备份恢复”
 
@@ -113,3 +110,7 @@ innobackupex --defaults-file 这里应该是mysql的my.conf的路径 --copy-back
 4. https://github.com/Brave-Cheng/Materials/blob/master/%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A2%B3%E7%90%86(Online)/Mysql%E5%A4%87%E4%BB%BD.md
 5. http://www.drupal001.com/2014/02/percona-xtrabackup-mysql/
 6. http://ju.outofmemory.cn/entry/189507
+
+
+
+###[到这里查看完整信息](https://app.yinxiang.com/shard/s5/nl/5189159/75fab3c9-de81-4012-bc3c-27ba2c792653/)
