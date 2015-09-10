@@ -10,3 +10,5 @@ Symfony 1大版本与当前的Symfony2在系统架构方面有一定的区别，
 2. [Symfony: How to query using Criteria OR](http://www.techiecorner.com/146/symfony-how-to-query-using-criteria-or/)
 3. [Symfony2实例教程](https://www.gitbook.com/book/wusuopu/symfony2_tutorial/details)
 4. [symblog](http://tutorial.symblog.co.uk/)
+5. [用Symfony 2建立Web应用](http://taylorr.gitbooks.io/building-a-web-site-with-symfony/content/index.html)
+6. [Gitbook search symfony](https://www.gitbook.com/search?q=symfony)
