@@ -14,7 +14,7 @@ Git 和其他版本控制系统的主要差别在于，Git 只关心文件数据
 6. [一个成功的 Git 分支模型](http://blog.jobbole.com/81196/#rd)
 7. [使用 GitHub / GitLab 的 Webhooks 进行网站自动化部署](http://www.lovelucy.info/auto-deploy-website-by-webhooks-of-github-and-gitlab.html)
 8. [廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-
+9. [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
 ##Git常见用法
 ---
