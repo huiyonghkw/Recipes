@@ -14,6 +14,7 @@
 5. [理解RESTFul架构](http://mccxj.github.io/blog/20130530_introduce-to-rest.html)
 6. [HTTP API 设计指南(http-api-design-ZH_CN)](https://github.com/ZhangBohan/http-api-design-ZH_CN)
 7. [RESTful Best Practices](https://www.zybuluo.com/yanbo-ai/note/17890)
+8. [RESTFUL API 安全设计指南](http://drops.wooyun.org/web/9737?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ##开发调试工具
 
