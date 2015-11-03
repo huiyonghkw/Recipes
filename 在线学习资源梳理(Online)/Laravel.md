@@ -9,3 +9,4 @@
 2. [Laravel 安装指南](http://laravel-china.org/docs/5.0)
 3. [Laravel 安装指南](http://www.golaravel.com/laravel/docs/5.0/)
 4. [PHPhub 是积极向上的 PHP & Laravel 开发者社区](https://phphub.org/)
+5. [Laravel-5-Basic 视频学习资料](https://laravist.com/series/laravel-5-basic)
