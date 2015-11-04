@@ -33,6 +33,27 @@ The error output from the last command was:
 
 ```
 
+
+```
+
+The following SSH command responded with a non-zero exit status.
+Vagrant assumes that this means the command failed!
+
+ARPCHECK=no /sbin/ifup eth1 2> /dev/null
+
+Stdout from the command:
+
+Device eth1 does not seem to be present, delaying initialization.
+
+
+Stderr from the command:
+```
+Fixed the bug
+```
+sudo rm -rf /etc/udev/rules.d/70-persistent-net.rules
+```
+
+
 ##Vagrant 推荐配置Vagrantfle
 
 ```
