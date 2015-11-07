@@ -11,6 +11,7 @@ SLB（Server Load Balance）服务通过设置虚拟服务地址（IP），将�
 2. [SLB+ECS实现高可用加负载均衡haproxy篇](http://help.aliyun.com/knowledge_detail/6716176.html?spm=5176.7618386.5.15.QW3mc4)
 3. [ 利用rsync实现SLB下多台centos 7服务器网站文件自动同步](http://www.eeetb.com/rsync-centos-file-backup-update.html?spm=5176.bbsr245376.0.0.8YC2Mj)
 4. [ 阿里云SLB配置ssl证书https协议方法](http://www.eeetb.com/aliyun-slb-config-https.html?spm=5176.bbsr247025.0.0.5eLLf7)
+5. [负载均衡 › 产品使用手册](https://docs.aliyun.com/?spm=5176.383633.9.2.0fQ1X4#/pub/slb/slb-use-guide/slb-instance-list)
 
 
 ##系统运维
