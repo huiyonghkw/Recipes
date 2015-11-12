@@ -20,3 +20,4 @@ Git 和其他版本控制系统的主要差别在于，Git 只关心文件数据
 ---
 
 + [禁止git用户登陆Shell](http://git.oschina.net/progit/4-%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E7%9A%84-Git.html#4.2-%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E9%83%A8%E7%BD%B2-Git)
++ [git与多个远程仓库同步](http://higrid.net/hi/docs/git-pull-push-from-multiple-remote-locations)
