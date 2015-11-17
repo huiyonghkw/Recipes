@@ -1,0 +1,5 @@
+{
+"src": "/mnt/www/api.weipei.cc/web/Uploads/pictures/assets",
+"dest": "qiniu:access_key=&secret_key=zVim_VAO8F9GlvWfWd9P0-5MDhyPkFF1iQCKFZH-&bucket=img-cdn-weipei&key_prefix=Uploads/pictures/assets/",
+"debug_level": 1
+}
