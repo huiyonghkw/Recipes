@@ -11,6 +11,7 @@
 1. [Percona XtraBackup 2.2 Documentation Release 2.2.12](https://form.percona.com/rs/828-GMD-003/images/PerconaXtraBackup-2.2.12.pdf)
 2. [Percona Xtrabackup备份mysql (完整备份与增量备份)](http://www.drupal001.com/2014/02/percona-xtrabackup-mysql/)
 3. [Percona Xtrabackup快速备份MySQL](http://ju.outofmemory.cn/entry/189507)
+4. [单表60亿记录等大数据场景的MySQL优化和运维之道 | 高可用架构](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209403337&idx=1&sn=f99429e24e8c591111a355e072f93e05)
 
 ##问题索引
 
