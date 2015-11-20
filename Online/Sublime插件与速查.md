@@ -1,4 +1,4 @@
-# Sublime 推荐插件与插件使用手册
+# Sublime on Mac
 
 ---
 
@@ -9,3 +9,9 @@ You'll love the slick user interface, extraordinary features and amazing perform
 
 1. [开发Laravel 5推荐插件 - Sublime Blade Snippets](https://packagecontrol.io/packages/Blade%20Snippets)
 2. [快速插入html代码推荐插件- Emmet Documentation](http://docs.emmet.io/cheat-sheet/)
+
+3. [Top 11 Programming Fonts for your Text Editor and Terminal](http://wesbos.com/programming-fonts/)
+
+4. [Mac下Sublime Text 2使用心得](http://www.jianshu.com/p/25cdc7d608bb)
+
+5. [A flat theme for Sublime Text that supports both retina and non-retina.](https://github.com/itsthatguy/theme-itg-flat)
