@@ -1,0 +1,67 @@
+{
+    "color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+    "draw_white_space": "all",
+    "file_exclude_patterns":
+    [
+        ".DS_Store",
+        "*.sublime-workspace",
+        "*.scssc"
+    ],
+    "folder_exclude_patterns":
+    [
+        ".git",
+        "tmp/cache",
+        ".vagrant"
+    ],
+    "font_face": "Monaco",
+    "font_size": 11,
+    "ignored_packages":
+    [
+        "Markdown",
+        "Vintage"
+    ],
+    "open_files_in_new_window": true,
+    "show_encoding": true,
+    "show_full_path": true,
+    "theme": "itg.flat.light.yellow.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": true,
+    // for a dark theme use:
+    "theme": "itg.flat.dark.sublime-theme",
+
+    // for a light theme use:
+    "theme": "itg.flat.light.sublime-theme",
+
+    // additional (dark) color options
+    "theme": "itg.flat.dark.aqua.sublime-theme",
+    "theme": "itg.flat.dark.blue.sublime-theme",
+    "theme": "itg.flat.dark.green.sublime-theme",
+    "theme": "itg.flat.dark.orange.sublime-theme",
+    "theme": "itg.flat.dark.yellow.sublime-theme",
+
+    // additional (light) color options
+    "theme": "itg.flat.light.aqua.sublime-theme",
+    "theme": "itg.flat.light.blue.sublime-theme",
+    "theme": "itg.flat.light.green.sublime-theme",
+    "theme": "itg.flat.light.orange.sublime-theme",
+    "theme": "itg.flat.light.yellow.sublime-theme",
+
+    // small tabs
+    "itg_small_tabs": true,
+
+    // Sidebar padding options
+    "itg_sidebar_tree_xsmall": true,
+    "itg_sidebar_tree_small": true,
+    "itg_sidebar_tree_medium": true,
+    "itg_sidebar_tree_large": true,
+    "itg_sidebar_tree_xlarge": true,
+
+
+    // Scrollbar size options
+    "itg_scrollbar_small": true,
+    "itg_scrollbar_medium": true,
+
+    // if the scrollbar options aren't working, try setting the following
+    "overlay_scroll_bars": "disabled",
+}
