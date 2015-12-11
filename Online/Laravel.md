@@ -11,3 +11,4 @@
 4. [PHPhub 是积极向上的 PHP & Laravel 开发者社区](https://phphub.org/)
 5. [Laravel-5-Basic 视频学习资料](https://laravist.com/series/laravel-5-basic)
 6. [Laravel 5.1 中文文档](http://laravelacademy.org/laravel-tutorial-5_1)
+7.[Laravel学院](http://laravelacademy.org/)
