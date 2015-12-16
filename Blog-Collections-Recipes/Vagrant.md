@@ -42,14 +42,7 @@ Vagrant 是一款用来构建虚拟开发环境的工具，非常适合 php/pyth
  $ vagrant init {title}
  $ vagrant up
 ```
-This is a demo
-```json
- $ vagrant box add weipei_develop_server https://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.7-x86_64-v20151108.box
- //download from [here](https://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.7-x86_64-v20151108.box)
- $ vagrant box add weipei_develop_server ~/Downloads/CentOS-6.5-x86_64-v20140504.box
- //Add packages
- $ vagrant box add weipei_develop_server packages.box
-```
+
 See installed vagrant box and remove it
 ```json
 $ vagrant halt
@@ -57,6 +50,14 @@ $ vagrant destroy
 $ vagrant box list
 $ vagrant box remove chehubao
 ```
+
+Vagrant add box
+```json
+ $ vagrant box add weipei_develop_server https://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.7-x86_64-v20151108.box
+ # Add packages
+ $ vagrant box add weipei_develop_server packages.box
+```
+
 Vagrant startup
 ```json
 $ vagrant init weipei_develop_server
@@ -72,11 +73,33 @@ $sudo yum -y install wget screen python
 ```
 使用下载工具下载 [OneinStack – 一键PHP/JAVA安装工具](http://mirrors.linuxeye.com/oneinstack-full.tar.gz)，将安装包分发到服务器
 
+解压安装包
+```json
+$tar xvzf oneinstack-full.tar.gz cd oneinstack
+```
+如果需要修改目录(安装、数据存储、Nginx日志)，请修改options.conf文件
 
+```json
+# web directory, you can customize
+wwwroot_dir=/mnt/www
 
+# nginx Generate a log storage directory, you can freely specify.
+wwwlogs_dir=/mnt/wwwlogs
+```
 
+```json
+$sudo passwd root
+$su root
+$./install.sh     #请勿sh install.sh或者bash install.sh这样执行
+```
 
-
+##Installed Tools
++ MySQL-5.6.28
++ php-5.6.16
++ Nginx1.9.9
++ phpMyAdmin-4.4.15.1
++ memcached-1.4.25
++ redis-3.0.5
 
 
 
