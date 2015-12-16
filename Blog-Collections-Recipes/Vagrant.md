@@ -53,6 +53,7 @@ This is a demo
 See installed vagrant box and remove it
 ```json
 $ vagrant halt
+$ vagrant destroy
 $ vagrant box list
 $ vagrant box remove chehubao
 ```
