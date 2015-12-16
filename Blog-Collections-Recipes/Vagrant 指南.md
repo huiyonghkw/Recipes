@@ -43,7 +43,7 @@ Vagrant 是一款用来构建虚拟开发环境的工具，非常适合 php/pyth
 
 ##问题集锦
 
-[Fixed the bug on Mac](http://stackoverflow.com/questions/22717428/vagrant-error-failed-to-mount-folders-in-linux-guest)
+1. [Fixed the bug on Mac](http://stackoverflow.com/questions/22717428/vagrant-error-failed-to-mount-folders-in-linux-guest)
 
 ```
 Failed to mount folders in Linux guest. This is usually because
@@ -60,7 +60,7 @@ The error output from the last command was:
 
 ```
 
-
+2. 'ARPCHECK=no /sbin/ifup eth1 2> /dev/null'
 ```
 
 The following SSH command responded with a non-zero exit status.
