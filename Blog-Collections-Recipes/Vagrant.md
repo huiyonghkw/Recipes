@@ -50,9 +50,14 @@ This is a demo
  //Add packages
  $ vagrant box add weipei_develop_server packages.box
 ```
-See installed vagrant box and up
+See installed vagrant box and remove it
 ```json
+$ vagrant halt
 $ vagrant box list
+$ vagrant box remove chehubao
+```
+Vagrant startup
+```json
 $ vagrant init weipei_develop_server
 $ vagrant up
 ```
