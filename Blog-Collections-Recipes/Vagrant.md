@@ -65,8 +65,7 @@ $ vagrant up
 ```
 
 
-
- #### [PHP install tools](http://oneinstack.com/)
+####[安装应用服务](http://oneinstack.com/)
 
 ```json
 $sudo yum -y install wget screen python
@@ -101,6 +100,7 @@ $./install.sh     #请勿sh install.sh或者bash install.sh这样执行
 + memcached-1.4.25
 + redis-3.0.5
 
+####[管理服务](http://oneinstack.com/install/)
 
 
 ##问题集锦
