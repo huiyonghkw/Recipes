@@ -41,11 +41,23 @@ Vagrant 是一款用来构建虚拟开发环境的工具，非常适合 php/pyth
  $ vagrant box add {title} {url}
  $ vagrant init {title}
  $ vagrant up
- //This is a demo
+```
+This is a demo
+```json
  $ vagrant box add weipei_develop_server https://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.7-x86_64-v20151108.box
- //may be use the demo
+ //download from [here](https://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.7-x86_64-v20151108.box)
+ $ vagrant box add weipei_develop_server ~/Downloads/CentOS-6.5-x86_64-v20140504.box
+ //Add packages
  $ vagrant box add weipei_develop_server packages.box
 ```
+See installed vagrant box and up
+```json
+$ vagrant box list
+$ vagrant init weipei_develop_server
+$ vagrant up
+```
+
+
 
 3. [PHP install tools](http://oneinstack.com/)
 
