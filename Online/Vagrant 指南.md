@@ -15,6 +15,12 @@ Vagrant 是一款用来构建虚拟开发环境的工具，非常适合 php/pyth
 
 ##开发环境推荐配置
 
+Github Stars & Avaliable
+> 1. [NREL / vagrant-boxes](https://github.com/NREL/vagrant-boxes)
+> 2. [lj2007331 / lnmp](https://github.com/lj2007331/lnmp)
+> 3. [Vagrantbox.es](http://www.vagrantbox.es/)
+
+Step
 1. [Vagrant Base Box Downloads](http://nrel.github.io/vagrant-boxes/)
 2. Add boxes
 ```json
@@ -23,7 +29,10 @@ Vagrant 是一款用来构建虚拟开发环境的工具，非常适合 php/pyth
  $ vagrant up
  //This is a demo
  $ vagrant box add weipei_develop_server https://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.7-x86_64-v20151108.box
+ //may be use the demo
+ $ vagrant box add weipei_develop_server packages.box
 ```
+
 3. [PHP install tools](http://oneinstack.com/)
 
 
