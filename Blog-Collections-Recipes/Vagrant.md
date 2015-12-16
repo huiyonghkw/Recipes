@@ -128,19 +128,21 @@ http://oneinstack.com/question/785/
 http://oneinstack.com/question/oneinstack-how-to-configure-mysql-remote-connection/
 为了安全考虑，OneinStack仅允许云主机本机（localhost）连接数据库，如果需要远程连接数据库，需要如下操作：
 打开iptables 3306端口
-
-# iptables -I INPUT 4 -p tcp -m state --state NEW -m tcp --dport 3306 -j ACCEPT
-# service iptables save #保存iptables规则
+```bash
+iptables -I INPUT 4 -p tcp -m state --state NEW -m tcp --dport 3306 -j ACCEPT
+service iptables save #保存iptables规则
+```
 如下图：
 
 数据库授权
 远程连接新建一个帐号（帐号名不能为root）。
 如：添加一个用户名为linuxeye，密码为123456，授权为% （%表示所有ip能连接，可以设置指定ip）对oneinstack数据库所有权限，命令如下:
-
-# mysql –uroot –p
+```bash
+mysql –uroot –p
 MySQL [(none)]> grant all privileges on oneinstack.* to linuxeye@'%' identified by '123456'; #授权语句，特别注意有分号
 MySQL [(none)]> flush privileges;
 MySQL [(none)]> exit; #退出数据库控制台，特别注意有分号
+```
 如下图：
 
 
