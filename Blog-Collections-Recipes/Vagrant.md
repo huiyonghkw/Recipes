@@ -67,6 +67,12 @@ $ vagrant up
 
 3. [PHP install tools](http://oneinstack.com/)
 
+```json
+$sudo yum -y install wget screen python
+```
+使用下载工具下载 [OneinStack – 一键PHP/JAVA安装工具](http://mirrors.linuxeye.com/oneinstack-full.tar.gz)，将安装包分发到服务器
+
+
 
 
 
@@ -119,7 +125,7 @@ sudo rm -rf /etc/udev/rules.d/70-persistent-net.rules
 ```
 config.vm.network "private_network", ip: "192.168.33.10"
 
-config.vm.synced_folder "/Users/chenghuiyong/Applications/server", "/alidata/www",:mount_options => ["dmode=777","fmode=777"]
+config.vm.synced_folder "/Users/chenghuiyong/Applications/server", "/mnt/www",:mount_options => ["dmode=777","fmode=777"]
 
 config.ssh.username = "vagrant"
 config.ssh.password = "vagrant"
