@@ -13,6 +13,25 @@ Vagrant 是一款用来构建虚拟开发环境的工具，非常适合 php/pyth
 3. [Vagrant简介和安装配置](http://rmingwang.com/vagrant-commands-and-config.html)
 4. [用 Vagrant 管理虚拟机](http://ninghao.net/blog/2077)
 
+##开发环境推荐配置
+
+1. [Vagrant Base Box Downloads](http://nrel.github.io/vagrant-boxes/)
+2. Add boxes
+```json
+ $ vagrant box add {title} {url}
+ $ vagrant init {title}
+ $ vagrant up
+ //This is a demo
+ $ vagrant box add weipei_develop_server https://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.7-x86_64-v20151108.box
+```
+3. [PHP install tools](http://oneinstack.com/)
+
+
+
+
+
+
+
 
 ##问题集锦
 
