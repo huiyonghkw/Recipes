@@ -35,8 +35,8 @@ Vagrant 是一款用来构建虚拟开发环境的工具，非常适合 php/pyth
 
 ###Step
 
-1. [Vagrant Base Box Downloads](http://nrel.github.io/vagrant-boxes/)
-2. Add boxes
+#### [Vagrant Base Box Downloads](http://nrel.github.io/vagrant-boxes/)
+#### Add boxes
 ```json
  $ vagrant box add {title} {url}
  $ vagrant init {title}
@@ -66,7 +66,7 @@ $ vagrant up
 
 
 
-3. [PHP install tools](http://oneinstack.com/)
+ #### [PHP install tools](http://oneinstack.com/)
 
 ```json
 $sudo yum -y install wget screen python
@@ -93,7 +93,7 @@ $su root
 $./install.sh     #请勿sh install.sh或者bash install.sh这样执行
 ```
 
-##Installed Tools
+####Installed Tools
 + MySQL-5.6.28
 + php-5.6.16
 + Nginx1.9.9
