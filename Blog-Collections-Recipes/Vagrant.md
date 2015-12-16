@@ -100,6 +100,31 @@ $./install.sh     #请勿sh install.sh或者bash install.sh这样执行
 + memcached-1.4.25
 + redis-3.0.5
 
+```json
+####################Congratulations########################
+
+Nginx/Tengine install dir:      /usr/local/nginx
+
+Database install dir:           /usr/local/mysql
+Database data dir:              /data/mysql
+Database user:                  root
+Database password:              123456@a
+
+PHP install dir:                /usr/local/php
+Opcache Control Panel url:      http://10.0.2.15/ocp.php
+
+phpMyAdmin dir:                 /mnt/www/default/phpMyAdmin
+phpMyAdmin Control Panel url:   http://10.0.2.15/phpMyAdmin
+
+redis install dir:              /usr/local/redis
+
+memcached install dir:          /usr/local/memcached
+
+index url:                      http://10.0.2.15/
+```
+
+
+
 ####[管理服务](http://oneinstack.com/install/)
 
 
