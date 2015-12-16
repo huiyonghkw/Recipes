@@ -16,7 +16,22 @@ Vagrant 是一款用来构建虚拟开发环境的工具，非常适合 php/pyth
 > 5. [vagrant 简明使用方法](http://my.oschina.net/guanyue/blog/390287)
 > 6. [Vagrant简介和安装配置](http://rmingwang.com/vagrant-commands-and-config.html)
 > 7. [用 Vagrant 管理虚拟机](http://ninghao.net/blog/2077)
+> 8. [OneinStack – 一键PHP/JAVA安装工具](http://oneinstack.com/)
+
 ##开发环境推荐配置
+
+##OpenSource Soteware
+
++ CentOS-6.5(CentOS-6.5-x86_64-v20140504.box)
++ Vagrant-1.7.4
++ VirualBox-5.0.8 r103449
++ Mac(Unix)\Linux
++ MySQL-5.6.28
++ php-5.6.16
++ Nginx1.9.9
++ phpMyAdmin-4.4.15.1
++ memcached-1.4.25
++ redis-3.0.5
 
 ###Step
 
