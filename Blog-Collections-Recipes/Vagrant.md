@@ -122,6 +122,10 @@ memcached install dir:          /usr/local/memcached
 
 index url:                      http://10.0.2.15/
 ```
+####虚拟机重写规则配置
+http://oneinstack.com/question/785/
+####OneinStack如何配置MySQL远程连接
+http://oneinstack.com/question/oneinstack-how-to-configure-mysql-remote-connection/
 
 
 
