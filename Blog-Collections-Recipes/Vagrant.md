@@ -124,6 +124,12 @@ index url:                      http://10.0.2.15/
 ```
 ####虚拟机重写规则配置
 http://oneinstack.com/question/785/
+```bash
+add content for nginx.conf
+fastcgi_split_path_info ^(.+\.php)(/.*)$;
+fastcgi_param PATH_INFO $fastcgi_path_info;
+```
+
 ####OneinStack如何配置MySQL远程连接
 http://oneinstack.com/question/oneinstack-how-to-configure-mysql-remote-connection/
 为了安全考虑，OneinStack仅允许云主机本机（localhost）连接数据库，如果需要远程连接数据库，需要如下操作：
