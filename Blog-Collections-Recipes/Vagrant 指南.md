@@ -6,22 +6,19 @@
 Vagrant 是一款用来构建虚拟开发环境的工具，非常适合 php/python/ruby/java 这类语言开发 web 应用，“代码在我机子上运行没有问题”这种说辞将成为历史。
 ```
 
-##资源整理
 
-1. [使用 Vagrant 打造跨平台开发环境](http://segmentfault.com/a/1190000000264347)
-2. [vagrant 简明使用方法](http://my.oschina.net/guanyue/blog/390287)
-3. [Vagrant简介和安装配置](http://rmingwang.com/vagrant-commands-and-config.html)
-4. [用 Vagrant 管理虚拟机](http://ninghao.net/blog/2077)
-
-##开发环境推荐配置
-
-Github Stars & Avaliable resources
+## Github Stars & Recipes
 
 > 1. [NREL / vagrant-boxes](https://github.com/NREL/vagrant-boxes)
 > 2. [lj2007331 / lnmp](https://github.com/lj2007331/lnmp)
 > 3. [Vagrantbox.es](http://www.vagrantbox.es/)
+> 4. [使用 Vagrant 打造跨平台开发环境](http://segmentfault.com/a/1190000000264347)
+> 5. [vagrant 简明使用方法](http://my.oschina.net/guanyue/blog/390287)
+> 6. [Vagrant简介和安装配置](http://rmingwang.com/vagrant-commands-and-config.html)
+> 7. [用 Vagrant 管理虚拟机](http://ninghao.net/blog/2077)
+##开发环境推荐配置
 
-Step
+###Step
 
 1. [Vagrant Base Box Downloads](http://nrel.github.io/vagrant-boxes/)
 2. Add boxes
