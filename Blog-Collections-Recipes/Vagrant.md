@@ -196,6 +196,14 @@ Fixed the bug
 sudo rm -rf /etc/udev/rules.d/70-persistent-net.rules
 ```
 
+###[Symfony\Component\Process\Exception\RuntimeException]
+  The Process class relies on proc_open, which is not available on your PHP installation.
+
+Edit your php.ini file and search for the line
+ ```json
+ ;disable_functions = passthru,exec,system,chroot,chgrp,chown,shell_exec,proc_open,proc_get_status,ini_alter,ini_restore,dl,openlog,syslog,readlink,symlink,popepassthru,stream_socket_server,fsocket,popen
+ ```
+It should be disabled there and you must enabled it. This a security precaution
 
 ##Vagrant 推荐配置Vagrantfle
 
