@@ -205,6 +205,15 @@ Edit your php.ini file and search for the line
  ```
 It should be disabled there and you must enabled it. This a security precaution
 
+###No supported encrypter found. The cipher and / or key length are invalid.
+
+终端使用如下命令：
+```json
+php artisan key:generate
+```
+将生成的key复制到config/app.php替换83行的APP_KEY键值。
+
+
 ##Vagrant 推荐配置Vagrantfle
 
 ```
