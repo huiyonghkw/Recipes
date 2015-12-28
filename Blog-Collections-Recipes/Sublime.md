@@ -15,3 +15,5 @@ You'll love the slick user interface, extraordinary features and amazing perform
 4. [Mac下Sublime Text 2使用心得](http://www.jianshu.com/p/25cdc7d608bb)
 
 5. [A flat theme for Sublime Text that supports both retina and non-retina.](https://github.com/itsthatguy/theme-itg-flat)
+6. [一个前端程序猿的Sublime Text3的自我修养
+](http://guowenfh.github.io/2015/12/26/SublimeText/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
