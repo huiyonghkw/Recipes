@@ -17,3 +17,4 @@
 11. [Laravel 精选资源大全](https://github.com/nonfu/awesome-laravel)
 12. [Laravel 核心：控制反转（Inversion of Control）和门面模式（Facade](http://yansu.org/2014/12/06/ioc-and-facade-in-laravel.html)
 13. [laravel 学习笔记 —— 神奇的服务容器](https://www.insp.top/article/learn-laravel-container)
+14. [Laravel5做权限管理](http://www.cnblogs.com/yjf512/p/4516435.html)
