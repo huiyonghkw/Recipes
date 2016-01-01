@@ -13,3 +13,4 @@
 7. [Laravel学院](http://laravelacademy.org/)
 8. [Laravel 5.1 中文文档](http://laravelacademy.org/laravel-docs-5_1)
 9. [来自一篇牛人的Laravel-5框架的理解](https://www.insp.top/article/learn-laravel-letsbegin)
+10. [Laravel 调试利器 —— Laravel Debugbar 扩展包安装及使用教程](http://laravelacademy.org/post/2774.html)
