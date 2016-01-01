@@ -10,6 +10,6 @@
 3. [Laravel 安装指南](http://www.golaravel.com/laravel/docs/5.0/)
 4. [PHPhub 是积极向上的 PHP & Laravel 开发者社区](https://phphub.org/)
 5. [Laravel-5-Basic 视频学习资料](https://laravist.com/series/laravel-5-basic)
-6. [Laravel 5.1 中文文档](http://laravelacademy.org/laravel-tutorial-5_1)
 7. [Laravel学院](http://laravelacademy.org/)
 8. [Laravel 5.1 中文文档](http://laravelacademy.org/laravel-docs-5_1)
+9. [来自一篇牛人的Laravel-5框架的理解](https://www.insp.top/article/learn-laravel-letsbegin)
