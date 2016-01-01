@@ -15,3 +15,5 @@
 9. [来自一篇牛人的Laravel-5框架的理解](https://www.insp.top/article/learn-laravel-letsbegin)
 10. [Laravel 调试利器 —— Laravel Debugbar 扩展包安装及使用教程](http://laravelacademy.org/post/2774.html)
 11. [Laravel 精选资源大全](https://github.com/nonfu/awesome-laravel)
+12. [Laravel 核心：控制反转（Inversion of Control）和门面模式（Facade](http://yansu.org/2014/12/06/ioc-and-facade-in-laravel.html)
+13. [laravel 学习笔记 —— 神奇的服务容器](https://www.insp.top/article/learn-laravel-container)
