@@ -20,3 +20,4 @@
 14. [Laravel5做权限管理](http://www.cnblogs.com/yjf512/p/4516435.html)
 15. [Entrust - Laravel 用户权限系统解决方案](https://phphub.org/topics/166)
 16. [dingo/api 初探](http://rcant.com/post/11.html)
+17. [Laravel5.1 使用DingoAPI与JWT（1）--安装与配置Dingo/API](http://wangxiaofeng.org.cn/blog/Laravel/Laravel-DingoAPI-JWT.html)
