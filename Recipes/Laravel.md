@@ -19,3 +19,4 @@
 13. [laravel 学习笔记 —— 神奇的服务容器](https://www.insp.top/article/learn-laravel-container)
 14. [Laravel5做权限管理](http://www.cnblogs.com/yjf512/p/4516435.html)
 15. [Entrust - Laravel 用户权限系统解决方案](https://phphub.org/topics/166)
+16. [dingo/api 初探](http://rcant.com/post/11.html)
