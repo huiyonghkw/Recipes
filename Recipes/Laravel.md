@@ -22,3 +22,12 @@
 16. [dingo/api 初探](http://rcant.com/post/11.html)
 17. [Laravel5.1 使用DingoAPI与JWT（1）--安装与配置Dingo/API](http://wangxiaofeng.org.cn/blog/Laravel/Laravel-DingoAPI-JWT.html)
 18. [Dingo API: Basics](https://vimeo.com/93736144)
+
+
+*Server-Based Authentication*
+
+![Server-Based Authentication](http://assets.toptal.io/uploads/blog/image/957/toptal-blog-image-1426676413694.jpeg)
+
+*Token-Based Authentication*
+
+![Token-Based Authentication](http://assets.toptal.io/uploads/blog/image/958/toptal-blog-image-1426676428399.jpeg)
