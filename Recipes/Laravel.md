@@ -25,7 +25,7 @@
 19. [JWT（JSON Web Token）Authentication](http://kejyun.github.io/Laravel-5-Learning-Notes-Books/package/auth/jwt/package-auth-jwt-README.html)
 
 20. [使用Json Web Token](http://haomou.net/2014/08/13/2014_web_token/)
-
+21. [Token-Based Authentication for AngularJS and Laravel Apps](https://scotch.io/tutorials/token-based-authentication-for-angularjs-and-laravel-apps)
 
 *Server-Based Authentication*
 
