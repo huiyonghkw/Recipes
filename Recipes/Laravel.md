@@ -24,6 +24,8 @@
 18. [Dingo API: Basics](https://vimeo.com/93736144)
 19. [JWT（JSON Web Token）Authentication](http://kejyun.github.io/Laravel-5-Learning-Notes-Books/package/auth/jwt/package-auth-jwt-README.html)
 
+20. [使用Json Web Token](http://haomou.net/2014/08/13/2014_web_token/)
+
 
 *Server-Based Authentication*
 
