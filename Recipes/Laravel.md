@@ -22,6 +22,7 @@
 16. [dingo/api 初探](http://rcant.com/post/11.html)
 17. [Laravel5.1 使用DingoAPI与JWT（1）--安装与配置Dingo/API](http://wangxiaofeng.org.cn/blog/Laravel/Laravel-DingoAPI-JWT.html)
 18. [Dingo API: Basics](https://vimeo.com/93736144)
+19. [JWT（JSON Web Token）Authentication](http://kejyun.github.io/Laravel-5-Learning-Notes-Books/package/auth/jwt/package-auth-jwt-README.html)
 
 
 *Server-Based Authentication*
