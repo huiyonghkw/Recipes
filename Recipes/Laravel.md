@@ -27,6 +27,8 @@
 20. [使用Json Web Token](http://haomou.net/2014/08/13/2014_web_token/)
 21. [Token-Based Authentication for AngularJS and Laravel Apps](https://scotch.io/tutorials/token-based-authentication-for-angularjs-and-laravel-apps)
 
+22. [[Laravel 5.1] Disable Session and Cookies for some routes](https://laracasts.com/discuss/channels/laravel/laravel-51-disable-session-and-cookies-for-some-routes)
+
 *Server-Based Authentication*
 
 ![Server-Based Authentication](http://assets.toptal.io/uploads/blog/image/957/toptal-blog-image-1426676413694.jpeg)
