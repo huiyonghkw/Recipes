@@ -29,6 +29,7 @@
 
 22. [[Laravel 5.1] Disable Session and Cookies for some routes](https://laracasts.com/discuss/channels/laravel/laravel-51-disable-session-and-cookies-for-some-routes)
 
+23. [Create an API Server for Mobile Apps using Laravel 5.1 and JWT - 此文章让我凌晨3点茅塞顿开](http://blog.nedex.io/create-an-api-server-for-mobile-apps-using-laravel-5-1/)
 *Server-Based Authentication*
 
 ![Server-Based Authentication](http://assets.toptal.io/uploads/blog/image/957/toptal-blog-image-1426676413694.jpeg)
