@@ -16,6 +16,8 @@ Git 和其他版本控制系统的主要差别在于，Git 只关心文件数据
 8. [廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 9. [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 
+10 .[The entire Pro Git book***](http://git-scm.com/book/zh/v2)
+
 ##Git常见用法
 ---
 
