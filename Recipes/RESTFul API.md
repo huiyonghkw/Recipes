@@ -15,6 +15,7 @@
 6. [HTTP API 设计指南(http-api-design-ZH_CN)](https://github.com/ZhangBohan/http-api-design-ZH_CN)
 7. [RESTful Best Practices](https://www.zybuluo.com/yanbo-ai/note/17890)
 8. [RESTFUL API 安全设计指南](http://drops.wooyun.org/web/9737?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+9. [RESTful Api 身份认证中的安全性设计探讨](http://mengkang.net/625.html)
 
 ##开发调试工具
 
