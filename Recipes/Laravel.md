@@ -32,6 +32,7 @@
 23. [Create an API Server for Mobile Apps using Laravel 5.1 and JWT - 此文章让我凌晨3点茅塞顿开](http://blog.nedex.io/create-an-api-server-for-mobile-apps-using-laravel-5-1/)
 
 24. [Laravel 5.1 官方文档中文版](http://wiki.jikexueyuan.com/project/laravel-5.1/)
+25. [JSON Web Token - 在Web应用间安全地传递信息](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)
 
 
 *Server-Based Authentication*
