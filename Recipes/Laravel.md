@@ -33,6 +33,7 @@
 
 24. [Laravel 5.1 官方文档中文版](http://wiki.jikexueyuan.com/project/laravel-5.1/)
 25. [JSON Web Token - 在Web应用间安全地传递信息](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)
+26. [基于Token的认证和基于声明的标识](http://codelife.me/blog/2014/03/26/token-based-authentication-and-claims-based-identity/)
 
 
 *Server-Based Authentication*
